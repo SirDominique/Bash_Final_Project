@@ -1,4 +1,4 @@
-# Bash_Final_Project
+# JOMACS_BashScripting_FinalProject
 
 ### AUTHOR: DOMINIC QUANSAH
 ### CREATED: 24TH AUGUST 2023
